@@ -34,7 +34,7 @@ Nama Sekolah : SMK Telkom Malang
 
 7. Button Print - Message Data di Proses
 
-<img src="7.PNG>
+<img src="7.PNG">
 
 8. Isi Database db_keretaapi
 
